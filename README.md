@@ -83,17 +83,6 @@ The approach combines multiple classifiers such as **Random Forest**, **Decision
 
 ---
 
-## 📁 Repository Structure
-
-```
-📦 phishing-detection-ml
- ┣ 📄 dataset.csv
- ┣ 📄 Phishing_Detection.ipynb
- ┣ 📄 README.md
- ┗ 📄 Report.pdf
-```
-
----
 
 ## 👨‍💻 Author
 
