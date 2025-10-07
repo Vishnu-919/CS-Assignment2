@@ -91,10 +91,3 @@ The approach combines multiple classifiers such as **Random Forest**, **Decision
 **Course:** Cyber Security
 
 ---
-
-## 📚 References
-
-1. Mohammad, R., Thabtah, F., & McCluskey, L. (2015). *Phishing Websites Dataset*, UCI Machine Learning Repository.
-2. *Phishing Website Detection using Machine Learning Algorithms*, IEEE, 2022.
-3. [Scikit-learn Documentation](https://scikit-learn.org/)
-4. [Google Colab](https://colab.research.google.com/)
